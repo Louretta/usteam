@@ -1,7 +1,7 @@
 common: &default_settings
   # ============================== LICENSE KEY ===============================
   # You must specify the license key associated with your New Relic account.
-  license_key: 'NRAK-HPT5OJANIT515S5M7XMTIRUERKX'
+  license_key: 'NRAK-DNXE8NC150GJMRU00175ONBQOBB'
   agent_enabled: true
   # Set the name of your application as you'd like it show up in New Relic.
   app_name: 'petclinicapps'
